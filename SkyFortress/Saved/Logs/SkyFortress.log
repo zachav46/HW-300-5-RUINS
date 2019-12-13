@@ -6320,3 +6320,1208 @@ Script Stack (0 frames):
 [2019.12.13-11.32.34:122][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SkyFortress" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/SkyFortress.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.12.13-11.32.34:171][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
 [2019.12.13-11.32.35:843][  2]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/SkyFortress7A9A18E849420F4785A1FE8EE31F968D.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/SkyFortress.umap'
+[2019.12.13-11.34.07:047][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.13-11.34.07:080][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/TowerDoor" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/TowerDoor.uasset" SILENT=true
+[2019.12.13-11.34.07:123][920]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/TowerDoorE42AE3D443A7327A488570916DAA9369.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/TowerDoor.uasset'
+[2019.12.13-11.34.07:149][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Key3" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/Key3.uasset" SILENT=true
+[2019.12.13-11.34.07:197][920]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Key3865E05EB4A972FDFA376799667E8A5F4.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/Key3.uasset'
+[2019.12.13-11.45.48:286][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.45.50:041][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.45.51:164][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.46.30:132][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.46.45:350][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.46.49:963][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.46.58:480][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.47.01:224][254]LogGeometryMode: Warning: Unable to find BoxBrush330 Brush(s) in new BSP
+[2019.12.13-11.47.01:224][254]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-11.47.02:576][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.47.07:370][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.47.16:217][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.47.25:773][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.47.33:721][154]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.13-11.47.42:087][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.47.59:749][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.48.15:309][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.48.25:055][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.48.41:325][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.48.55:895][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.49.04:635][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.49.22:256][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.49.30:090][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.49.41:803][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.49.48:457][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.49.54:353][834]Cmd: TRANSACTION UNDO
+[2019.12.13-11.49.54:353][834]LogEditorTransaction: Undo Move Actors
+[2019.12.13-11.49.55:125][834]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.12.13-11.49.55:209][834]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-11.50.00:291][123]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-11.50.06:848][432]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-11.50.06:848][432]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-11.50.06:848][432]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-11.50.06:849][432]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-11.50.21:202][278]LogEditorViewport: Clicking Background
+[2019.12.13-11.50.46:037][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.50.46:182][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.12.13-11.50.48:030][509]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/SkyFortress_Auto59FB2A77C429D8AC7DBBFA28D452013F3.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Autosaves/Game/SkyFortress_Auto5.umap'
+[2019.12.13-11.50.48:074][509]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SkyFortress' took 2.009
+[2019.12.13-11.50.48:075][509]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.009
+[2019.12.13-11.57.34:879][291]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush331)
+[2019.12.13-11.57.36:346][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-11.57.41:281][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.58.03:665][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.58.10:807][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.58.15:664][167]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.13-11.58.20:985][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.58.45:389][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.58.57:269][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.59.06:193][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.59.14:252][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-11.59.14:306][259]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-11.59.14:364][259]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-11.59.14:364][259]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-11.59.14:366][259]LogPlayLevel: [PlayLevel] Compiling FoyerDoor before play...
+[2019.12.13-11.59.14:701][259]LogPlayLevel: [PlayLevel] Compiling Key2 before play...
+[2019.12.13-11.59.15:027][259]LogPlayLevel: [PlayLevel] Compiling TowerDoor before play...
+[2019.12.13-11.59.15:398][259]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2019.12.13-11.59.15:400][259]LogPlayLevel: PlayLevel: Blueprint regeneration took 1036 ms (3 blueprints)
+[2019.12.13-11.59.15:402][259]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 1:59:15 AM)
+[2019.12.13-11.59.15:407][259]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-11.59.15:622][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.214640s)
+[2019.12.13-11.59.15:623][259]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-11.59.15:625][259]LogPlayLevel: PIE: World Init took: (0.002735s)
+[2019.12.13-11.59.15:625][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.218169s)
+[2019.12.13-11.59.15:680][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.13-11.59.15:706][259]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-11.59.15:724][259]LogInit: FAudioDevice initialized.
+[2019.12.13-11.59.15:759][259]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-11.59.15:798][259]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-06.59.15
+[2019.12.13-11.59.15:800][259]LogWorld: Bringing up level for play took: 0.038701
+[2019.12.13-11.59.15:824][259]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 1.26
+[2019.12.13-11.59.15:824][259]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-11.59.16:811][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-11.59.16:812][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-11.59.16:872][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-11.59.16:872][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-11.59.16:938][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-11.59.16:955][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.13-11.59.17:103][323]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2019.12.13-11.59.17:189][323]LogSlate: Took 0.041447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.12.13-12.00.23:329][453]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.13-12.00.34:673][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.13-12.00.51:219][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.00.53:848][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.01.01:247][882]LogEditorViewport: Clicking Background
+[2019.12.13-12.01.01:748][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.01.35:444][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.01.35:560][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.12.13-12.01.37:331][728]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/SkyFortress_Auto6C686AA1243EDAED51428EAA5325BB501.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Autosaves/Game/SkyFortress_Auto6.umap'
+[2019.12.13-12.01.37:339][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SkyFortress' took 1.874
+[2019.12.13-12.01.37:339][728]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.874
+[2019.12.13-12.03.10:145][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.03.11:707][785]LogActorFactory: Actor Factory created Cube
+[2019.12.13-12.03.13:010][895]LogActorFactory: Actor Factory created Cube
+[2019.12.13-12.03.18:396][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.03.34:827][436]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Purple.Purple
+[2019.12.13-12.03.34:857][436]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.35:009][436]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.35:028][436]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.35:049][436]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.03.37:763][551]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-12.03.40:947][710]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.12.13-12.03.40:947][710]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.12.13-12.03.40:947][710]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.03.40:947][710]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.03.42:547][799]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.42:565][799]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.03.42:565][799]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.13-12.03.43:377][836]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.03.45:108][924]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.45:132][924]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.13-12.03.46:949][  3]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.03.47:838][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.13-12.03.47:869][ 53]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.49:071][107]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.03.50:642][188]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-12.03.51:639][243]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.13-12.03.51:671][243]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.52:841][297]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.52:865][297]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.13-12.03.52:903][297]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.13-12.03.52:934][297]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.52:959][297]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.13-12.03.52:990][297]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.53:006][297]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.13-12.03.54:290][355]LogMaterialEditor: Saving and Compiling material Purple
+[2019.12.13-12.03.55:458][355]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.03.55:458][355]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-12.03.55:474][355]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.55:572][355]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.55:641][355]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.03.55:783][355]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.13-12.03.55:799][355]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.13-12.03.58:044][355]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.13-12.03.58:044][355]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.13-12.03.58:053][355]TextureStreamingBuild: Display: Compiling optional shaders took 2.268 seconds.
+[2019.12.13-12.03.58:105][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.12.13-12.04.00:901][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Purple" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/Materials/Purple.uasset" SILENT=true
+[2019.12.13-12.04.00:923][355]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/PurpleDAEAF28E440737DD36225791696A7528.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/Materials/Purple.uasset'
+[2019.12.13-12.04.00:943][355]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-12.04.00:943][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-12.04.00:943][355]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.04.00:943][355]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.04.11:872][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2019.12.13-12.04.14:479][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.04.15:912][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.04.15:912][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.04.15:912][120]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:04:15 AM)
+[2019.12.13-12.04.15:915][120]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.04.16:113][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197263s)
+[2019.12.13-12.04.16:113][120]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.04.16:113][120]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2019.12.13-12.04.16:113][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.198266s)
+[2019.12.13-12.04.16:166][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.12.13-12.04.16:187][120]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.04.16:199][120]LogInit: FAudioDevice initialized.
+[2019.12.13-12.04.16:200][120]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.04.16:235][120]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.04.16:253][120]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.04.16
+[2019.12.13-12.04.16:254][120]LogWorld: Bringing up level for play took: 0.018697
+[2019.12.13-12.04.16:269][120]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress -0.295
+[2019.12.13-12.04.16:278][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.04.21:073][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.04.21:073][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.04.21:116][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.04.21:116][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.04.21:171][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.04.21:182][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.12.13-12.04.21:238][408]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2019.12.13-12.04.32:165][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.04.47:200][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.04.57:231][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.05.08:916][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.05.19:322][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2019.12.13-12.05.38:631][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.05.43:960][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.05.47:480][864]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.13-12.05.49:293][944]Cmd: DELETE
+[2019.12.13-12.05.49:293][944]Cmd: ACTOR DELETE
+[2019.12.13-12.05.49:357][944]LogEditorActor: Deleted Actor: Brush
+[2019.12.13-12.05.49:416][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.13-12.05.49:793][944]LogEditorActor: Deleted 1 Actors (0.497 secs)
+[2019.12.13-12.06.01:971][531]Cmd: TRANSACTION UNDO
+[2019.12.13-12.06.01:971][531]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.13-12.06.02:130][531]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.12.13-12.06.02:160][531]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.06.02:163][531]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.06.03:077][564]LogEditorViewport: Clicking on Actor (context menu): Brush (Cylinder Brush15)
+[2019.12.13-12.06.03:107][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.06.07:452][752]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.13-12.06.07:763][765]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.13-12.06.09:591][846]Cmd: ACTOR MIRROR Z=-1
+[2019.12.13-12.06.12:662][971]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.06.12:816][979]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-12.06.12:816][979]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-12.06.12:816][979]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.06.12:816][979]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.06.15:312][ 75]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-12.06.21:231][283]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush15)
+[2019.12.13-12.06.21:679][301]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-12.06.21:679][301]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-12.06.21:679][301]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.06.21:679][301]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.06.25:061][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.06.45:802][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.06.59:019][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.07.01:842][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.07.06:896][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.07.28:348][514]LogEditorViewport: Clicking Background
+[2019.12.13-12.07.29:180][563]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.07.38:805][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.07.46:966][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.08.07:649][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2019.12.13-12.08.28:286][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.08.40:783][159]Cmd: TRANSACTION UNDO
+[2019.12.13-12.08.40:783][159]LogEditorTransaction: Undo Move Actors
+[2019.12.13-12.08.41:574][159]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.12.13-12.08.41:604][159]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.08.41:607][159]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.08.47:772][341]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.13-12.08.54:454][580]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.08.55:487][628]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-12.08.55:487][628]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-12.08.55:487][628]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.08.55:487][628]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.08.56:698][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.08.59:561][791]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-12.09.07:183][131]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-12.09.07:183][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-12.09.07:183][131]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.09.07:183][131]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.09.10:811][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.09.15:436][587]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.13-12.09.21:095][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.09.25:998][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.09.31:207][442]Cmd: POLY SELECT MATCHING BRUSH
+[2019.12.13-12.09.51:552][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.09.54:530][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.10.08:680][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.10.08:733][277]LogGeometryMode: Warning: Unable to find 4 Edge(s) in new BSP
+[2019.12.13-12.10.08:733][277]LogGeometryMode: Warning: Unable to resolve BoxBrush335 Brush in new BSP, see above
+[2019.12.13-12.10.08:733][277]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-12.10.12:017][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.10.12:070][430]LogGeometryMode: Warning: Unable to find 4 Edge(s) in new BSP
+[2019.12.13-12.10.12:070][430]LogGeometryMode: Warning: Unable to resolve BoxBrush335 Brush in new BSP, see above
+[2019.12.13-12.10.12:070][430]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-12.10.22:813][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.10.24:233][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.10.27:540][166]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.10.28:695][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.10.28:749][232]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.13-12.10.28:749][232]LogGeometryMode: Warning: Unable to resolve BoxBrush335 Brush in new BSP, see above
+[2019.12.13-12.10.28:749][232]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-12.10.31:291][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.10.49:432][183]LogEditorViewport: Clicking Background
+[2019.12.13-12.10.50:155][226]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush335)
+[2019.12.13-12.10.57:090][557]Cmd: TRANSACTION UNDO
+[2019.12.13-12.10.57:090][557]LogEditorTransaction: Undo Move Actors
+[2019.12.13-12.10.57:740][557]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2019.12.13-12.10.57:740][557]LogGeometryMode: Warning: Unable to resolve BoxBrush335 Brush in new BSP, see above
+[2019.12.13-12.10.57:740][557]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-12.10.57:890][557]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.12.13-12.10.57:922][557]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.10.57:925][557]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.11.02:879][757]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.13-12.11.04:126][795]LogEditorViewport: Clicking Background
+[2019.12.13-12.11.05:086][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.11.07:174][952]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.11.07:696][981]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-12.11.07:696][981]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-12.11.07:696][981]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.11.07:696][981]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.11.09:604][ 56]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-12.11.10:720][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.11.14:640][273]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-12.11.14:640][273]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-12.11.14:640][273]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.11.14:640][273]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.11.22:568][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.11.22:614][615]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush335)
+[2019.12.13-12.11.22:648][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.11.23:269][642]LogGeometryMode: Warning: Unable to find BoxBrush331 Brush(s) in new BSP
+[2019.12.13-12.11.23:269][642]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-12.11.23:316][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.11.25:995][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.11.26:049][781]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush335)
+[2019.12.13-12.11.26:050][781]LogGeometryMode: Warning: Unable to find BoxBrush335 Brush(s) in new BSP
+[2019.12.13-12.11.26:050][781]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-12.11.28:882][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.11.33:255][111]LogEditorViewport: Clicking Background
+[2019.12.13-12.11.36:278][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.12.04:708][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.12.13-12.12.06:502][622]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/SkyFortress_Auto7E97BBEEC48AE04E99C8D1CBA65C71161.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Autosaves/Game/SkyFortress_Auto7.umap'
+[2019.12.13-12.12.06:509][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SkyFortress' took 1.956
+[2019.12.13-12.12.06:509][622]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.956
+[2019.12.13-12.12.22:162][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.12.30:117][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.12.38:188][516]LogSlate: Window 'Message' being destroyed
+[2019.12.13-12.12.38:763][516]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.12.38:828][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.12.38:834][516]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.12.38:864][516]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.12.38:898][516]LogMaterial: Display: Missing cached shader map for material Purple, compiling. 
+[2019.12.13-12.12.39:017][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.12.13-12.12.39:041][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.13-12.12.41:262][516]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.13-12.12.41:262][516]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.13-12.12.41:269][516]TextureStreamingBuild: Display: Compiling optional shaders took 2.236 seconds.
+[2019.12.13-12.12.41:321][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.13-12.12.43:262][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.12.45:897][720]Cmd: POLY SELECT MATCHING BRUSH
+[2019.12.13-12.13.01:916][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.13.06:130][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.13.09:657][ 12]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.13-12.13.19:776][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.13.20:669][612]Cmd: POLY SELECT MATCHING BRUSH
+[2019.12.13-12.13.21:369][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.13.31:539][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.13.58:201][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.14.09:748][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.14.37:933][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.14.40:281][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.14.40:349][742]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.13-12.14.40:349][742]LogGeometryMode: Warning: Unable to resolve BoxBrush336 Brush in new BSP, see above
+[2019.12.13-12.14.40:349][742]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-12.14.42:553][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.14.42:618][839]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.13-12.14.42:618][839]LogGeometryMode: Warning: Unable to resolve BoxBrush336 Brush in new BSP, see above
+[2019.12.13-12.14.42:619][839]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-12.14.44:619][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.14.47:616][ 62]LogEditorViewport: Clicking Background
+[2019.12.13-12.14.48:586][122]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush336)
+[2019.12.13-12.15.05:236][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.15.05:309][926]LogGeometryMode: Warning: Unable to find 4 Edge(s) in new BSP
+[2019.12.13-12.15.05:309][926]LogGeometryMode: Warning: Unable to resolve BoxBrush336 Brush in new BSP, see above
+[2019.12.13-12.15.05:309][926]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.13-12.15.19:311][637]LogEditorViewport: Clicking Background
+[2019.12.13-12.15.20:251][695]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush336)
+[2019.12.13-12.15.31:689][243]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush336)
+[2019.12.13-12.15.45:854][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.16.13:871][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.16.16:849][421]LogActorFactory: Actor Factory created Bed
+[2019.12.13-12.16.17:982][473]LogActorFactory: Actor Factory created Bed
+[2019.12.13-12.17.02:771][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.17.05:814][ 21]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.13-12.17.19:600][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.17.41:686][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.17.42:988][807]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.13-12.17.44:073][840]Cmd: TRANSACTION UNDO
+[2019.12.13-12.17.44:073][840]LogEditorTransaction: Undo Brush Add
+[2019.12.13-12.17.44:548][840]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.12.13-12.17.44:570][840]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.17.48:239][951]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-12.17.55:527][239]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-12.17.55:527][239]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-12.17.55:527][239]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.17.55:527][239]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.17.56:401][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.18.17:343][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.18.50:282][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.18.52:498][981]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.13-12.18.54:500][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.19.05:501][586]Cmd: TRANSACTION UNDO
+[2019.12.13-12.19.05:501][586]LogEditorTransaction: Undo Edit Z
+[2019.12.13-12.19.06:211][586]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.12.13-12.19.06:260][586]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.19.08:953][708]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.13-12.19.12:983][896]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.12.13-12.19.12:983][896]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.12.13-12.19.12:983][896]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.13-12.19.12:983][896]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.13-12.19.47:210][413]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.13-12.19.59:698][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.20.00:835][ 96]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-12.20.01:953][124]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-12.20.02:926][147]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-12.20.04:578][199]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-12.20.06:289][245]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-12.20.10:359][264]LogSlate: Window 'Message' being destroyed
+[2019.12.13-12.20.10:903][264]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.12.13-12.20.10:969][264]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.13-12.20.10:973][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.20.11:025][264]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.12.13-12.20.11:069][264]LogMaterial: Display: Missing cached shader map for material DarkGrey, compiling. 
+[2019.12.13-12.20.11:528][264]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.12.13-12.20.11:564][264]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.13-12.20.11:564][264]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.13-12.20.13:610][264]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.13-12.20.13:610][264]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.13-12.20.13:617][264]TextureStreamingBuild: Display: Compiling optional shaders took 2.061 seconds.
+[2019.12.13-12.20.13:664][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.12.13-12.21.09:403][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.21.23:136][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.21.23:296][734]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2019.12.13-12.21.52:966][344]Cmd: TRANSACTION UNDO
+[2019.12.13-12.21.52:966][344]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.13-12.21.53:748][359]Cmd: TRANSACTION UNDO
+[2019.12.13-12.21.53:748][359]LogEditorTransaction: Undo Move Actors
+[2019.12.13-12.21.55:310][441]Cmd: TRANSACTION UNDO
+[2019.12.13-12.21.55:311][441]LogEditorTransaction: Undo Create Actors
+[2019.12.13-12.22.00:006][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.22.04:571][790]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.13-12.22.28:254][182]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.13-12.22.48:471][ 58]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.13-12.22.48:926][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.12.13-12.23.03:292][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.23.03:442][663]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/EngineRoomDoor.EngineRoomDoor
+[2019.12.13-12.23.21:161][590]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.13-12.23.28:224][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.23.33:696][216]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.23.58:151][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.24.52:483][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.24.53:568][192]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2019.12.13-12.25.46:603][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.13-12.25.48:865][171]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/SkyFortress_Auto80AE6ADA34786226420B49DA5A8BA56ED.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Autosaves/Game/SkyFortress_Auto8.umap'
+[2019.12.13-12.25.48:879][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SkyFortress' took 2.335
+[2019.12.13-12.25.48:879][171]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.335
+[2019.12.13-12.25.48:887][171]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.12.13-12.25.48:887][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.12.13-12.25.49:161][171]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/FirstPersonCharacter_Auto87CC0058A48B3CDA454D24DBE18B72575.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto8.uasset'
+[2019.12.13-12.25.49:162][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/DarkGrey] ([1] browsable assets)...
+[2019.12.13-12.25.49:176][171]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/DarkGrey.DarkGrey]
+[2019.12.13-12.25.49:176][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/DarkGrey]
+[2019.12.13-12.25.49:242][171]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/DarkGrey_Auto8B81CAD034887307AEB0C92AB7EBF8248.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Autosaves/Game/Materials/DarkGrey_Auto8.uasset'
+[2019.12.13-12.25.49:243][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Purple] ([1] browsable assets)...
+[2019.12.13-12.25.49:254][171]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Purple.Purple]
+[2019.12.13-12.25.49:254][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Purple]
+[2019.12.13-12.25.49:315][171]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Purple_Auto8E0E833C04A914D5FCEA76B8A9BAEE301.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Autosaves/Game/Materials/Purple_Auto8.uasset'
+[2019.12.13-12.25.49:315][171]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/EngineRoomDoor] ([1] browsable assets)...
+[2019.12.13-12.25.49:315][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/EngineRoomDoor]
+[2019.12.13-12.25.49:333][171]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/EngineRoomDoor_Auto87123599D45DC57113C6F9D9BF532F022.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Autosaves/Game/BluePrints/EngineRoomDoor_Auto8.uasset'
+[2019.12.13-12.25.49:334][171]LogFileHelpers: Auto-saving content packages took 0.449
+[2019.12.13-12.26.53:466][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2019.12.13-12.27.01:610][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.27.45:216][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.27.50:190][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.27.52:478][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.28.02:454][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.28.30:807][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.30.52:616][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.30.53:930][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.30.53:930][696]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-12.30.53:932][696]LogPlayLevel: [PlayLevel] Compiling EngineRoomDoor before play...
+[2019.12.13-12.30.54:296][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.12.13-12.30.54:296][696]LogPlayLevel: PlayLevel: Blueprint regeneration took 366 ms (1 blueprints)
+[2019.12.13-12.30.54:297][696]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:30:54 AM)
+[2019.12.13-12.30.54:298][696]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.30.54:521][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222796s)
+[2019.12.13-12.30.54:522][696]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.30.54:522][696]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2019.12.13-12.30.54:522][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.224105s)
+[2019.12.13-12.30.54:566][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.12.13-12.30.54:588][696]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.30.54:606][696]LogInit: FAudioDevice initialized.
+[2019.12.13-12.30.54:606][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.30.54:638][696]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.30.54:655][696]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.30.54
+[2019.12.13-12.30.54:656][696]LogWorld: Bringing up level for play took: 0.017460
+[2019.12.13-12.30.54:674][696]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 0.109
+[2019.12.13-12.30.54:681][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.31.03:619][278]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.31.03:620][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.31.03:673][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.31.03:674][278]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.31.03:724][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.31.03:736][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.13-12.31.03:777][279]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2019.12.13-12.31.04:363][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2019.12.13-12.31.05:510][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.31.22:339][359]LogSlate: Window 'Select Path' being destroyed
+[2019.12.13-12.31.22:429][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.13-12.31.22:508][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.31.22:515][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Energy_Crystal.Energy_Crystal
+[2019.12.13-12.31.43:085][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.32.18:403][337]BlueprintLog: New page: Compile Energy_Crystal
+[2019.12.13-12.32.18:708][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.12.13-12.32.23:607][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.32.24:710][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.32.24:711][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.32.24:711][618]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:32:24 AM)
+[2019.12.13-12.32.24:713][618]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.32.24:918][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.205760s)
+[2019.12.13-12.32.24:919][618]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.32.24:919][618]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2019.12.13-12.32.24:919][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.206772s)
+[2019.12.13-12.32.24:977][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.12.13-12.32.24:997][618]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.32.25:010][618]LogInit: FAudioDevice initialized.
+[2019.12.13-12.32.25:010][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.32.25:043][618]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.32.25:058][618]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.32.25
+[2019.12.13-12.32.25:059][618]LogWorld: Bringing up level for play took: 0.015281
+[2019.12.13-12.32.25:074][618]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 0.51
+[2019.12.13-12.32.25:082][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.32.36:392][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.32.36:392][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.32.36:451][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.32.36:451][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.32.36:503][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.32.36:515][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.12.13-12.32.36:595][361]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2019.12.13-12.32.43:486][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.33.02:525][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.33.03:737][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.03:737][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.33.03:737][ 66]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:33:03 AM)
+[2019.12.13-12.33.03:740][ 66]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.33.03:944][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204159s)
+[2019.12.13-12.33.03:944][ 66]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.33.03:944][ 66]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.12.13-12.33.03:945][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.205074s)
+[2019.12.13-12.33.03:990][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.12.13-12.33.04:011][ 66]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.33.04:023][ 66]LogInit: FAudioDevice initialized.
+[2019.12.13-12.33.04:024][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.33.04:053][ 66]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.33.04:067][ 66]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.33.04
+[2019.12.13-12.33.04:069][ 66]LogWorld: Bringing up level for play took: 0.015719
+[2019.12.13-12.33.04:085][ 66]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress -0.48
+[2019.12.13-12.33.04:094][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.09:131][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.09:132][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.33.09:225][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.33.09:225][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.09:276][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.33.09:287][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.13-12.33.09:391][385]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2019.12.13-12.33.09:801][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.33.20:072][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-12.33.20:103][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.20:103][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.33.20:104][ 31]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:33:20 AM)
+[2019.12.13-12.33.20:104][ 31]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.33.20:309][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204425s)
+[2019.12.13-12.33.20:310][ 31]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.33.20:310][ 31]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2019.12.13-12.33.20:310][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.205636s)
+[2019.12.13-12.33.20:354][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.12.13-12.33.20:373][ 31]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.33.20:384][ 31]LogInit: FAudioDevice initialized.
+[2019.12.13-12.33.20:411][ 31]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.33.20:427][ 31]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.33.20
+[2019.12.13-12.33.20:428][ 31]LogWorld: Bringing up level for play took: 0.015996
+[2019.12.13-12.33.20:444][ 31]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress -0.12
+[2019.12.13-12.33.20:444][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.21:713][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.21:713][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.33.21:782][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.33.21:782][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.21:829][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.33.21:840][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.12.13-12.33.21:953][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2019.12.13-12.33.25:540][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.33.26:559][341]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.26:559][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.33.26:559][341]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:33:26 AM)
+[2019.12.13-12.33.26:562][341]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.33.26:766][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204516s)
+[2019.12.13-12.33.26:767][341]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.33.26:767][341]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2019.12.13-12.33.26:767][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.205439s)
+[2019.12.13-12.33.26:812][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.13-12.33.26:831][341]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.33.26:841][341]LogInit: FAudioDevice initialized.
+[2019.12.13-12.33.26:841][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.33.26:869][341]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.33.26:884][341]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.33.26
+[2019.12.13-12.33.26:885][341]LogWorld: Bringing up level for play took: 0.015344
+[2019.12.13-12.33.26:900][341]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 0.336
+[2019.12.13-12.33.26:907][341]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.28:576][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.28:577][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.33.28:655][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.33.28:655][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.28:708][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.33.28:717][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.12.13-12.33.28:831][428]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2019.12.13-12.33.29:718][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.33.33:037][686]BlueprintLog: New page: Compile Energy_Crystal
+[2019.12.13-12.33.33:289][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.12.13-12.33.35:065][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.33.37:010][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.37:010][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.33.37:010][893]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:33:37 AM)
+[2019.12.13-12.33.37:012][893]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.33.37:208][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196095s)
+[2019.12.13-12.33.37:209][893]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.33.37:209][893]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2019.12.13-12.33.37:209][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.196965s)
+[2019.12.13-12.33.37:255][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.12.13-12.33.37:272][893]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.33.37:282][893]LogInit: FAudioDevice initialized.
+[2019.12.13-12.33.37:283][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.33.37:312][893]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.33.37:326][893]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.33.37
+[2019.12.13-12.33.37:327][893]LogWorld: Bringing up level for play took: 0.014078
+[2019.12.13-12.33.37:342][893]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 0.778
+[2019.12.13-12.33.37:351][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.46:275][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.46:276][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.33.46:362][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.33.46:362][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.33.46:410][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.33.46:419][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.12.13-12.33.46:501][488]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2019.12.13-12.33.48:105][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.34.13:932][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.34.20:552][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.34.29:273][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.13-12.34.37:006][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.12.13-12.34.37:026][192]LogMetaData: Removing '/Game/BluePrints/EngineRoomDoor2.SKEL_EngineRoomDoor2_C' ref from Metadata '/Game/BluePrints/EngineRoomDoor1.PackageMetaData'
+[2019.12.13-12.34.37:026][192]LogMetaData: Removing '/Game/BluePrints/EngineRoomDoor2.EngineRoomDoor2_C' ref from Metadata '/Game/BluePrints/EngineRoomDoor1.PackageMetaData'
+[2019.12.13-12.34.37:090][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EngineRoomDoor2" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/EngineRoomDoor2.uasset" SILENT=true
+[2019.12.13-12.34.37:141][192]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/EngineRoomDoor2B4AAD2774D014E04645028960A3053E5.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/EngineRoomDoor2.uasset'
+[2019.12.13-12.34.37:477][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.13-12.34.37:524][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.13-12.34.37:560][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.13-12.34.38:728][247]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/EngineRoomDoor2.EngineRoomDoor2
+[2019.12.13-12.34.45:398][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.35.02:147][595]BlueprintLog: New page: Compile EngineRoomDoor2
+[2019.12.13-12.35.02:401][595]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.13-12.35.06:781][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.35.07:991][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.35.07:991][870]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-12.35.08:050][870]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.12.13-12.35.08:650][870]LogPlayLevel: [PlayLevel] Compiling EngineRoomDoor before play...
+[2019.12.13-12.35.08:863][870]LogPlayLevel: [PlayLevel] Compiling Energy_Crystal before play...
+[2019.12.13-12.35.09:122][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.12.13-12.35.09:122][870]LogPlayLevel: PlayLevel: Blueprint regeneration took 1131 ms (3 blueprints)
+[2019.12.13-12.35.09:122][870]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:35:09 AM)
+[2019.12.13-12.35.09:125][870]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.35.09:320][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195633s)
+[2019.12.13-12.35.09:321][870]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.35.09:321][870]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2019.12.13-12.35.09:321][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.196753s)
+[2019.12.13-12.35.09:362][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.13-12.35.09:379][870]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.35.09:390][870]LogInit: FAudioDevice initialized.
+[2019.12.13-12.35.09:390][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.35.09:418][870]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.35.09:434][870]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.35.09
+[2019.12.13-12.35.09:435][870]LogWorld: Bringing up level for play took: 0.015797
+[2019.12.13-12.35.09:450][870]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 0.887
+[2019.12.13-12.35.09:458][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.35.24:566][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.35.24:566][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.35.24:637][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.35.24:637][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.35.24:683][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.35.24:694][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.13-12.35.24:875][831]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2019.12.13-12.35.25:548][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.35.32:674][302]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.35.33:563][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.35.33:563][343]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-12.35.33:563][343]LogPlayLevel: [PlayLevel] Compiling EngineRoomDoor2 before play...
+[2019.12.13-12.35.33:846][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.13-12.35.33:847][343]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2019.12.13-12.35.33:847][343]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:35:33 AM)
+[2019.12.13-12.35.33:847][343]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.35.34:043][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195363s)
+[2019.12.13-12.35.34:043][343]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.35.34:043][343]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.12.13-12.35.34:044][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.196269s)
+[2019.12.13-12.35.34:084][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.12.13-12.35.34:102][343]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.35.34:113][343]LogInit: FAudioDevice initialized.
+[2019.12.13-12.35.34:113][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.35.34:142][343]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.35.34:159][343]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.35.34
+[2019.12.13-12.35.34:160][343]LogWorld: Bringing up level for play took: 0.017025
+[2019.12.13-12.35.34:175][343]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 1.61
+[2019.12.13-12.35.34:183][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.35.48:673][280]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.35.48:674][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.35.48:723][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.35.48:723][280]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.35.48:775][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.35.48:786][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.12.13-12.35.48:831][281]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2019.12.13-12.35.49:761][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.36.00:032][969]BlueprintLog: New page: Compile EngineRoomDoor2
+[2019.12.13-12.36.00:290][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.12.13-12.36.02:363][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.36.02:396][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-12.36.02:453][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.36.02:453][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.36.02:453][ 90]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:36:02 AM)
+[2019.12.13-12.36.02:454][ 90]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.36.02:648][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195157s)
+[2019.12.13-12.36.02:649][ 90]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.36.02:649][ 90]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.12.13-12.36.02:649][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.196175s)
+[2019.12.13-12.36.02:696][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.13-12.36.02:715][ 90]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.36.02:726][ 90]LogInit: FAudioDevice initialized.
+[2019.12.13-12.36.02:754][ 90]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.36.02:771][ 90]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.36.02
+[2019.12.13-12.36.02:772][ 90]LogWorld: Bringing up level for play took: 0.016674
+[2019.12.13-12.36.02:787][ 90]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 0.223
+[2019.12.13-12.36.02:787][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.36.05:883][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.36.05:884][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.36.05:953][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.36.05:953][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.36.06:004][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.36.06:014][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.13-12.36.06:092][282]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2019.12.13-12.36.12:695][719]LogEditorViewport: Clicking on Actor (LMB): EngineRoomDoor2_C (EngineRoomDoor2)
+[2019.12.13-12.36.28:570][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.36.34:800][ 56]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.13-12.36.42:843][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.36.45:833][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.36.50:481][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.36.56:112][231]BlueprintLog: New page: Compile EngineRoomDoor2
+[2019.12.13-12.36.56:385][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.12.13-12.37.02:837][566]BlueprintLog: New page: Compile EngineRoomDoor2
+[2019.12.13-12.37.03:092][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.12.13-12.37.04:607][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.37.06:269][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.37.06:269][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.37.06:269][702]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:37:06 AM)
+[2019.12.13-12.37.06:269][702]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.37.06:468][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198355s)
+[2019.12.13-12.37.06:468][702]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.37.06:468][702]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2019.12.13-12.37.06:469][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.199335s)
+[2019.12.13-12.37.06:513][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.13-12.37.06:532][702]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.37.06:543][702]LogInit: FAudioDevice initialized.
+[2019.12.13-12.37.06:543][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.37.06:570][702]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.37.06:586][702]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.37.06
+[2019.12.13-12.37.06:587][702]LogWorld: Bringing up level for play took: 0.016435
+[2019.12.13-12.37.06:602][702]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 0.037
+[2019.12.13-12.37.06:611][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.37.56:451][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.37.56:452][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.37.56:517][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.37.56:517][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.37.56:564][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.37.56:574][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.12.13-12.37.56:759][914]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2019.12.13-12.38.01:340][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.38.01:411][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SkyFortress" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/SkyFortress.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-12.38.01:458][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.13-12.38.03:050][180]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/SkyFortressF3FD351F40C76B621B63F09A6D20ABFB.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/SkyFortress.umap'
+[2019.12.13-12.38.05:518][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.38.05:565][321]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-12.38.05:620][321]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.38.05:620][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.38.05:620][321]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:38:05 AM)
+[2019.12.13-12.38.05:620][321]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.38.05:814][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.193844s)
+[2019.12.13-12.38.05:815][321]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.38.05:815][321]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2019.12.13-12.38.05:815][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.194736s)
+[2019.12.13-12.38.05:858][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.13-12.38.05:877][321]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.38.05:887][321]LogInit: FAudioDevice initialized.
+[2019.12.13-12.38.05:915][321]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.38.05:931][321]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.38.05
+[2019.12.13-12.38.05:931][321]LogWorld: Bringing up level for play took: 0.015872
+[2019.12.13-12.38.05:947][321]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress -0.617
+[2019.12.13-12.38.05:947][321]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.38.13:310][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.38.13:310][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.38.13:376][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.38.13:376][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.38.13:428][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.38.13:437][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.13-12.38.13:634][755]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2019.12.13-12.38.14:627][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.38.15:840][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.12.13-12.38.15:846][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.38.15:969][866]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/FirstPersonCharacter614231E0447B3D0BD9DFB0ACA9914CC0.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.13-12.38.15:991][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DarkGrey" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/Materials/DarkGrey.uasset" SILENT=true
+[2019.12.13-12.38.16:007][866]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/DarkGrey2C41B8624B6D9DEAF47FE1BDAC13CF87.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/Materials/DarkGrey.uasset'
+[2019.12.13-12.38.16:026][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Purple" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/Materials/Purple.uasset" SILENT=true
+[2019.12.13-12.38.16:042][866]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Purple1D0E1C8C405AE9BFA789D183EC2FB7CF.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/Materials/Purple.uasset'
+[2019.12.13-12.38.16:061][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EngineRoomDoor" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/EngineRoomDoor.uasset" SILENT=true
+[2019.12.13-12.38.16:085][866]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/EngineRoomDoor2E3AE92546E6ABD9C0F142AE0A54D389.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/EngineRoomDoor.uasset'
+[2019.12.13-12.38.16:116][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Energy_Crystal" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/Energy_Crystal.uasset" SILENT=true
+[2019.12.13-12.38.16:143][866]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/Energy_CrystalD6D83832430AB9AD5905C288B71B5A4D.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/Energy_Crystal.uasset'
+[2019.12.13-12.38.16:168][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/EngineRoomDoor2" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/EngineRoomDoor2.uasset" SILENT=true
+[2019.12.13-12.38.16:204][866]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/EngineRoomDoor27B40C746443DD83CBBE70194C36CA7C4.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/BluePrints/EngineRoomDoor2.uasset'
+[2019.12.13-12.39.20:074][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.39.21:839][198]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-12.39.21:863][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.39.21:863][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.39.21:863][198]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:39:21 AM)
+[2019.12.13-12.39.21:863][198]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.39.22:059][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195650s)
+[2019.12.13-12.39.22:059][198]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.39.22:059][198]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.12.13-12.39.22:060][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.196504s)
+[2019.12.13-12.39.22:104][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.13-12.39.22:121][198]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.39.22:132][198]LogInit: FAudioDevice initialized.
+[2019.12.13-12.39.22:164][198]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.39.22:179][198]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.39.22
+[2019.12.13-12.39.22:180][198]LogWorld: Bringing up level for play took: 0.015604
+[2019.12.13-12.39.22:195][198]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress -0.369
+[2019.12.13-12.39.22:195][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.41.04:946][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.41.04:946][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.41.05:010][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.41.05:010][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.41.05:062][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.41.05:071][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.13-12.41.05:263][896]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2019.12.13-12.41.20:553][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.41.21:550][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.41.21:550][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-12.41.21:550][892]PIE: New page: PIE session: SkyFortress (Dec 13, 2019, 2:41:21 AM)
+[2019.12.13-12.41.21:551][892]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkyFortress
+[2019.12.13-12.41.21:750][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.199030s)
+[2019.12.13-12.41.21:751][892]LogAIModule: Creating AISystem for world SkyFortress
+[2019.12.13-12.41.21:751][892]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2019.12.13-12.41.21:751][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkyFortress.SkyFortress to /Game/UEDPIE_0_SkyFortress.SkyFortress (0.200217s)
+[2019.12.13-12.41.21:794][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.13-12.41.21:811][892]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.13-12.41.21:822][892]LogInit: FAudioDevice initialized.
+[2019.12.13-12.41.21:822][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-12.41.21:852][892]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.13-12.41.21:870][892]LogWorld: Bringing World /Game/UEDPIE_0_SkyFortress.SkyFortress up for play (max tick rate 0) at 2019.12.13-07.41.21
+[2019.12.13-12.41.21:871][892]LogWorld: Bringing up level for play took: 0.017819
+[2019.12.13-12.41.21:886][892]PIE: Play in editor start time for /Game/UEDPIE_0_SkyFortress 1.322
+[2019.12.13-12.41.21:896][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.43.43:527][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.43.43:527][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.43.43:598][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-12.43.43:599][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkyFortress.SkyFortress:PersistentLevel' has LevelScriptBlueprint '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress' with GeneratedClass '/Game/SkyFortress.SkyFortress_C' with ClassGeneratedBy '/Game/SkyFortress.SkyFortress:PersistentLevel.SkyFortress'
+[2019.12.13-12.43.43:650][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-12.43.43:661][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.13-12.43.43:861][778]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2019.12.13-12.43.45:883][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.43.45:973][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SkyFortress" FILE="../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/SkyFortress.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-12.43.46:014][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.13-12.43.47:596][893]LogSavePackage: Moving '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Saved/SkyFortress33602B314B4938052CA113B1255A07CE.tmp' to '../../../../../Documents/DAGD 300/300-HW5-Ruins/HW-300-5-RUINS/SkyFortress/Content/SkyFortress.umap'
+[2019.12.13-12.43.48:787][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.43.48:876][954]LogSlate: Window 'EngineRoomDoor2' being destroyed
+[2019.12.13-12.43.48:883][954]LogSlate: Window 'EngineRoomDoor2' being destroyed
+[2019.12.13-12.44.40:105][954]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-12.44.40:406][954]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-12.44.40:621][954]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-12.44.40:842][954]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-12.44.42:643][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-12.44.45:902][281]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2019.12.13-12.44.51:064][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.12.13-12.44.51:248][774]LogSlate: Window 'SkyFortress - Unreal Editor' being destroyed
+[2019.12.13-12.44.51:259][774]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.13-12.44.52:471][775]Cmd: QUIT_EDITOR
+[2019.12.13-12.44.53:521][775]LogExit: Preparing to exit.
+[2019.12.13-12.44.56:814][775]LogExit: Editor shut down
+[2019.12.13-12.44.56:830][775]LogExit: Transaction tracking system shut down
+[2019.12.13-12.45.01:384][775]LogExit: Object subsystem successfully closed.
+[2019.12.13-12.45.01:752][775]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.13-12.45.01:967][775]LogD3D11RHI: Shutdown
+[2019.12.13-12.45.01:967][775]LogD3D11RHI: CleanupD3DDevice
+[2019.12.13-12.45.02:234][775]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.13-12.45.02:234][775]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-12.45.02:241][775]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.13-12.45.02:241][775]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-12.45.02:241][775]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.13-12.45.02:241][775]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-12.45.04:054][775]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.13-12.45.07:937][775]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (658)
+[2019.12.13-12.45.07:951][775]LogModuleManager: Shutting down and abandoning module MeshBuilder (656)
+[2019.12.13-12.45.07:954][775]LogModuleManager: Shutting down and abandoning module TextureEditor (654)
+[2019.12.13-12.45.07:979][775]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (652)
+[2019.12.13-12.45.07:990][775]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.12.13-12.45.08:073][775]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.12.13-12.45.08:087][775]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2019.12.13-12.45.08:130][775]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (644)
+[2019.12.13-12.45.08:137][775]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.12.13-12.45.08:137][775]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.12.13-12.45.08:142][775]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.12.13-12.45.08:196][775]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.12.13-12.45.08:196][775]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.12.13-12.45.08:196][775]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.12.13-12.45.08:218][775]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.12.13-12.45.08:248][775]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.12.13-12.45.08:248][775]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.12.13-12.45.08:302][775]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.12.13-12.45.08:315][775]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.12.13-12.45.08:315][775]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.12.13-12.45.08:315][775]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.12.13-12.45.08:327][775]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.12.13-12.45.08:327][775]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.12.13-12.45.08:327][775]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.12.13-12.45.08:343][775]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.12.13-12.45.08:343][775]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.12.13-12.45.08:353][775]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.12.13-12.45.08:353][775]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.12.13-12.45.08:353][775]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.12.13-12.45.08:393][775]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.12.13-12.45.08:446][775]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.12.13-12.45.08:448][775]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.12.13-12.45.08:520][775]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.12.13-12.45.08:533][775]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.12.13-12.45.08:533][775]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.12.13-12.45.08:533][775]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.12.13-12.45.08:533][775]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.12.13-12.45.08:533][775]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.12.13-12.45.08:533][775]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.12.13-12.45.08:550][775]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.12.13-12.45.08:613][775]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.12.13-12.45.08:614][775]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.12.13-12.45.08:614][775]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.12.13-12.45.08:614][775]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.12.13-12.45.08:614][775]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.12.13-12.45.08:627][775]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.12.13-12.45.08:652][775]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.12.13-12.45.08:653][775]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.12.13-12.45.08:681][775]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.12.13-12.45.08:732][775]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.12.13-12.45.08:765][775]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.12.13-12.45.08:765][775]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.12.13-12.45.08:771][775]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.12.13-12.45.08:771][775]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.12.13-12.45.08:785][775]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.12.13-12.45.09:578][775]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.12.13-12.45.09:578][775]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.12.13-12.45.09:578][775]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.12.13-12.45.09:578][775]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.12.13-12.45.09:578][775]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.12.13-12.45.09:589][775]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.12.13-12.45.09:605][775]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.12.13-12.45.09:703][775]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.12.13-12.45.09:721][775]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.12.13-12.45.09:756][775]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.12.13-12.45.09:756][775]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.12.13-12.45.09:769][775]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.12.13-12.45.09:782][775]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.12.13-12.45.09:787][775]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.12.13-12.45.09:787][775]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.12.13-12.45.09:825][775]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.12.13-12.45.09:831][775]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.12.13-12.45.09:832][775]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.12.13-12.45.09:841][775]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.12.13-12.45.09:866][775]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.12.13-12.45.09:890][775]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.12.13-12.45.09:903][775]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.12.13-12.45.09:919][775]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.12.13-12.45.09:982][775]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.12.13-12.45.10:000][775]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.12.13-12.45.10:006][775]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.12.13-12.45.10:030][775]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.12.13-12.45.10:030][775]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.12.13-12.45.10:069][775]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.12.13-12.45.10:088][775]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.12.13-12.45.10:121][775]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.12.13-12.45.10:160][775]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.12.13-12.45.10:160][775]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.12.13-12.45.10:166][775]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.12.13-12.45.10:248][775]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.12.13-12.45.10:262][775]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.12.13-12.45.10:322][775]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.12.13-12.45.10:322][775]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.12.13-12.45.10:333][775]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.12.13-12.45.10:346][775]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.12.13-12.45.10:346][775]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.12.13-12.45.10:350][775]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.12.13-12.45.10:387][775]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.12.13-12.45.10:412][775]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.12.13-12.45.10:412][775]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.12.13-12.45.10:415][775]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.12.13-12.45.10:421][775]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.12.13-12.45.10:435][775]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.12.13-12.45.10:435][775]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.12.13-12.45.10:435][775]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.12.13-12.45.10:435][775]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.12.13-12.45.10:435][775]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.12.13-12.45.10:435][775]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.12.13-12.45.10:435][775]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.12.13-12.45.10:435][775]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.12.13-12.45.10:448][775]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.12.13-12.45.10:460][775]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.12.13-12.45.10:472][775]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.12.13-12.45.10:483][775]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.12.13-12.45.10:728][775]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.12.13-12.45.10:751][775]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.12.13-12.45.10:751][775]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.12.13-12.45.10:754][775]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.12.13-12.45.10:754][775]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.12.13-12.45.10:766][775]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.12.13-12.45.10:776][775]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.12.13-12.45.10:776][775]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.12.13-12.45.10:789][775]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.12.13-12.45.10:789][775]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.12.13-12.45.10:789][775]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.12.13-12.45.10:789][775]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.12.13-12.45.10:789][775]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.12.13-12.45.10:789][775]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.12.13-12.45.10:789][775]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.12.13-12.45.10:815][775]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.12.13-12.45.10:827][775]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.12.13-12.45.10:828][775]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.12.13-12.45.10:828][775]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.12.13-12.45.10:828][775]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.12.13-12.45.10:828][775]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.12.13-12.45.10:828][775]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.12.13-12.45.10:828][775]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.12.13-12.45.10:828][775]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.12.13-12.45.10:828][775]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.12.13-12.45.10:837][775]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.12.13-12.45.10:837][775]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.12.13-12.45.10:852][775]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.12.13-12.45.10:862][775]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.12.13-12.45.10:875][775]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.12.13-12.45.10:875][775]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.12.13-12.45.10:875][775]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.12.13-12.45.10:885][775]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.12.13-12.45.10:885][775]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.12.13-12.45.10:885][775]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.12.13-12.45.10:895][775]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.12.13-12.45.10:910][775]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.12.13-12.45.10:925][775]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.12.13-12.45.10:935][775]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.12.13-12.45.10:936][775]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.12.13-12.45.10:936][775]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.12.13-12.45.10:980][775]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.12.13-12.45.10:981][775]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.12.13-12.45.10:985][775]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.12.13-12.45.10:985][775]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.12.13-12.45.10:993][775]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.12.13-12.45.11:014][775]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.12.13-12.45.11:014][775]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.12.13-12.45.11:019][775]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.12.13-12.45.11:019][775]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.12.13-12.45.11:019][775]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.12.13-12.45.11:019][775]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.12.13-12.45.11:019][775]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.12.13-12.45.11:120][775]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.12.13-12.45.11:239][775]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.12.13-12.45.11:239][775]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.12.13-12.45.11:239][775]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.12.13-12.45.11:239][775]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.12.13-12.45.11:249][775]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.12.13-12.45.11:267][775]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.13-12.45.11:270][775]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.12.13-12.45.11:270][775]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.12.13-12.45.11:270][775]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.12.13-12.45.11:279][775]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.12.13-12.45.11:280][775]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.12.13-12.45.11:280][775]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.12.13-12.45.11:289][775]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.12.13-12.45.11:308][775]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.12.13-12.45.11:374][775]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.12.13-12.45.11:374][775]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.12.13-12.45.11:388][775]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.12.13-12.45.11:427][775]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.12.13-12.45.11:468][775]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.12.13-12.45.11:493][775]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.12.13-12.45.11:501][775]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.12.13-12.45.11:502][775]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.12.13-12.45.11:502][775]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.12.13-12.45.11:502][775]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.12.13-12.45.11:505][775]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.12.13-12.45.11:511][775]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.12.13-12.45.11:511][775]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.12.13-12.45.11:518][775]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.12.13-12.45.11:519][775]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.12.13-12.45.11:546][775]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.12.13-12.45.11:546][775]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.12.13-12.45.11:547][775]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.12.13-12.45.11:547][775]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.12.13-12.45.11:561][775]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.12.13-12.45.11:568][775]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.12.13-12.45.11:568][775]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.12.13-12.45.11:585][775]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.12.13-12.45.11:587][775]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.12.13-12.45.11:600][775]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.12.13-12.45.11:687][775]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.12.13-12.45.11:699][775]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.12.13-12.45.11:720][775]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.12.13-12.45.11:765][775]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.12.13-12.45.11:766][775]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.12.13-12.45.11:788][775]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.12.13-12.45.11:788][775]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.12.13-12.45.11:821][775]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.12.13-12.45.11:833][775]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.12.13-12.45.11:833][775]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.12.13-12.45.11:839][775]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.12.13-12.45.11:839][775]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.12.13-12.45.11:839][775]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.12.13-12.45.11:839][775]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.12.13-12.45.11:839][775]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.12.13-12.45.11:839][775]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.12.13-12.45.11:851][775]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.12.13-12.45.11:863][775]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.12.13-12.45.11:863][775]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.12.13-12.45.11:868][775]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.12.13-12.45.11:930][775]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.12.13-12.45.11:935][775]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.12.13-12.45.11:936][775]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.12.13-12.45.11:950][775]LogDerivedDataCache: Shutdown
+[2019.12.13-12.45.11:950][775]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.12.13-12.45.11:954][775]LogXGEController: Cleaning working directory: C:/Users/zacha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.13-12.45.11:961][775]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.12.13-12.45.11:972][775]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.12.13-12.45.11:979][775]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.12.13-12.45.11:989][775]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.12.13-12.45.11:996][775]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.12.13-12.45.12:004][775]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.12.13-12.45.12:017][775]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.12.13-12.45.12:017][775]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.12.13-12.45.12:017][775]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.12.13-12.45.12:017][775]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.12.13-12.45.12:062][775]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.12.13-12.45.12:062][775]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.12.13-12.45.12:062][775]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.12.13-12.45.12:063][775]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.12.13-12.45.12:063][775]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.12.13-12.45.12:063][775]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.12.13-12.45.12:063][775]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.12.13-12.45.12:124][775]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.12.13-12.45.12:124][775]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.12.13-12.45.12:124][775]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.12.13-12.45.12:124][775]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.12.13-12.45.12:125][775]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.12.13-12.45.12:163][775]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.12.13-12.45.12:163][775]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.12.13-12.45.12:175][775]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.12.13-12.45.12:175][775]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.12.13-12.45.12:230][775]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.12.13-12.45.12:230][775]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.12.13-12.45.12:249][775]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.12.13-12.45.12:265][775]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.12.13-12.45.12:265][775]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.12.13-12.45.12:266][775]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.12.13-12.45.12:266][775]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.12.13-12.45.12:283][775]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.12.13-12.45.12:283][775]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.12.13-12.45.12:306][775]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.12.13-12.45.12:306][775]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.12.13-12.45.12:307][775]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.12.13-12.45.12:324][775]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.12.13-12.45.12:324][775]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.12.13-12.45.12:324][775]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.13-12.45.12:324][775]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.12.13-12.45.12:333][775]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.12.13-12.45.12:333][775]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.12.13-12.45.12:333][775]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.12.13-12.45.12:333][775]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.12.13-12.45.12:350][775]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.12.13-12.45.12:389][775]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.12.13-12.45.12:436][775]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.12.13-12.45.12:437][775]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.13-12.45.12:437][775]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE0EE9493-4056-0CDE-BE59-1295707807C1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=c51976974bbd6aede9ec3f9ab2353ff7%7C6c03425a51374b978dc50c17f7f37d3c%7Cafa9e11d-f940-4721-a1ad-383032131c5a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.13-12.45.12:442][775]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.12.13-12.45.12:468][775]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.12.13-12.45.12:485][775]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.12.13-12.45.12:493][775]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.12.13-12.45.12:501][775]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.12.13-12.45.12:501][775]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.13-12.45.12:516][775]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.13-12.45.12:651][775]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.13-12.45.12:719][775]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.13-12.45.12:752][775]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.13-12.45.12:752][775]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.13-12.45.12:752][775]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.13-12.45.12:845][775]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.13-12.45.12:867][775]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.13-12.45.12:867][775]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.13-12.45.12:878][775]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.13-12.45.12:890][775]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.13-12.45.12:891][775]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.13-12.45.12:895][775]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.13-12.45.12:900][775]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.13-12.45.12:900][775]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.13-12.45.12:910][775]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.13-12.45.12:919][775]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.13-12.45.12:944][775]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.13-12.45.13:031][775]LogExit: Exiting.
+[2019.12.13-12.45.13:084][775]Log file closed, 12/13/19 07:45:13
